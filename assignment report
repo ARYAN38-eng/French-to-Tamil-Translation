@@ -1,0 +1,24 @@
+1.Introduction
+Developed a French-to-Tamil translator using a Transformer model and Streamlit, focusing on implementing advanced translation capabilities and creating a user-friendly application.
+2.Background
+Utilized Transformer models to build a robust translation system, integrating the model with a Streamlit application to facilitate seamless translation between French and Tamil.
+3.Learning Objectives
+Transformer Models: Gained in-depth knowledge of Transformer architecture and its application in translation tasks.
+Application Development: Developed skills in using Streamlit for building interactive applications and integrating machine learning models.
+Data Gathering: Learned where to get the data for translation
+4.Activities and Tasks
+Model Development: Built and trained a Transformer model for translating French to Tamil.
+Application Creation: Designed and implemented a Streamlit application to deploy the translation model.
+5.Skills and Competencies
+Machine Learning: Advanced understanding of Transformer models and their application in natural language processing.
+Application Development: Proficiency in using Streamlit for creating and deploying interactive applications.
+6.Feedback and Evidence
+The project successfully demonstrated effective translation from French to Tamil using a Transformer model. The Streamlit application functioned smoothly, showcasing the model's capabilities. This work enhanced my knowledge of Transformer models and application integration, leading to a successful completion of the project.
+
+7.Challenges and Solutions
+Challenge: Navigating the complexities of Transformer model implementation and application integration. Solution: Employed iterative development and thorough testing to resolve issues, resulting in a functional and accurate translation system.
+8.Outcomes and Impact
+The project achieved its goal of creating a reliable French-to-Tamil translator, providing valuable experience in Transformer models and application development. The successful implementation underscores the potential of advanced models in real-time translation.
+
+9.Conclusion
+The project provided significant insights into Transformer models and application development. The successful completion of the translator highlights my ability to tackle complex machine learning tasks and deliver practical solutions.
